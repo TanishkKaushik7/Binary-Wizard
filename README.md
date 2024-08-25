@@ -20,3 +20,4 @@ LINK:https://drive.google.com/file/d/146wxqhuZUyiJD6ELjqR1IZKTPYYiACim/view?usp=
 *Ensure that the BMP180 sensors are properly connected to the I2C pins of the Arduino.<br>
 *The flow sensor must be calibrated to your specific hardware setup to ensure accurate measurements.<br>
 <br>
+Website link<a href=" https://tanishkkaushik7.github.io/Binary-Wizard/"> https://tanishkkaushik7.github.io/Binary-Wizard/</a>
